@@ -157,6 +157,7 @@ Experimental - not tested:
 * Uzbek Cyrillic
 * Vietnamese
 * Wolof
+* Russian
 
 
 <sup id="note1">**1**</sup> For some of the layouts, combo key ligatures that on other OSs can be typed by shift+numbers are not directly supported. Instead, you'll have to type the components individually. 
