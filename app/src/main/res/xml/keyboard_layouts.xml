@@ -158,4 +158,5 @@
     <keyboard-layout android:label="@string/keyboard_layout_uzbek_cyrillic" android:name="keyboard_layout_uzbek_cyrillic" android:keyboardLayout="@raw/keyboard_layout_uzbek_cyrillic"/>
     <keyboard-layout android:label="@string/keyboard_layout_vietnamese" android:name="keyboard_layout_vietnamese" android:keyboardLayout="@raw/keyboard_layout_vietnamese"/>
     <keyboard-layout android:label="@string/keyboard_layout_wolof" android:name="keyboard_layout_wolof" android:keyboardLayout="@raw/keyboard_layout_wolof"/>
+    <keyboard-layout android:name="keyboard_layout_ru" android:keyboardLayout="@raw/keyboard_layout_ru" android:label="@string/keyboard_layout_ru_label" />
 </keyboard-layouts>
