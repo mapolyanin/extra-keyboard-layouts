@@ -158,7 +158,7 @@
 	<string name="keyboard_layout_uzbek_cyrillic">Uzbek Cyrillic</string>
 	<string name="keyboard_layout_vietnamese">Vietnamese</string>
 	<string name="keyboard_layout_wolof">Wolof</string>
-	<string name="keyboard_layout_ru_label">Russian</string>
+	<string name="keyboard_layout_russian_label">Russian</string>
   <string name="app_name">Extra Keyboard Layouts</string>
   <string name="keyboard_layouts_label">Extra keyboard layouts</string>
 </resources>
